@@ -10,7 +10,8 @@ Open hardware reconstruction of the Sanken STR-D1806 hybrid IC for SMPS (Switch 
 ## ⚡ Technical Specification
 The circuit board is designed to work in switch-mode power supplies with input voltages up to **240V AC RMS** (rectified to approximately **340V DC** on the primary rail). 
 
-The PCB is designed as a single-sided board, optimized for **Aluminum Substrate / IMS (Insulated Metal Substrate) manufacturing** to ensure optimal thermal dissipation to the original VCR heatsink.
+The PCB is designed as a single-sided board, optimized for **Aluminum Substrate / IMS (Insulated Metal Substrate) manufacturing** to ensure optimal thermal dissipation to the original heatsink of the PSU.
+The PCB accepts either **D2PAK(TO-263)** or **TO-220** packages for the surface mounted **Power NPN Transistor**
 
 ## License
 The files are provided under the following license:
